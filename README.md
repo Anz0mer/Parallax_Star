@@ -1,2 +1,3 @@
-# Parallax_Star
-Parallax Star Animation with HTML and CSS
+# PROJETINHO EM CSS PARA AUMENTAR O PORTIFÓLIO
+
+Código em HTML e CSS 😊
